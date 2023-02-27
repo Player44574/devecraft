@@ -1,0 +1,13 @@
+body{
+    margin: auto; /*Margenes automáticos */
+    text-align: center;
+    background-image: ; 
+    /*Usamos un color en dregadado y se le añade prefix para que pueda funcionar con mi navegador Opera*/  
+}
+
+.imagen {  
+    /*Creamos al clase imágen */
+    border-radius:  10cm;      /*Borde redondeado con tamaño*/
+    border-color: #af3e3e;   /*Color del borde en la foto*/
+    border-style: dotted;      /*Estilo de borde en la foto*/  
+}
