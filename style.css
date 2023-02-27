@@ -1,0 +1,17 @@
+body{
+    margin: auto; /*Margenes automáticos */
+    text-align: center;
+    background-image: ; 
+    /*Usamos un color en dregadado y se le añade prefix para que pueda funcionar con mi navegador Opera*/  
+}
+
+.img {  
+    /*Creamos al clase imágen */
+    border-radius:  1000cm;      /*Borde redondeado con tamaño*/
+    border-color: #027c27;   /*Color del borde en la foto*/
+    border-style: initial;      /*Estilo de borde en la foto*/  
+}
+
+h1{
+    text-decoration: dashed;
+}
