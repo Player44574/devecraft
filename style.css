@@ -11,6 +11,11 @@ body{
     font-family: 'Macondo', cursive;
     color: antiquewhite;
     text-shadow: 2px 2px #2a2a2a;
+    cursor: url(https://cdn.custom-cursor.com/db/9744/32/minecraft-enchanted-book-and-netherite-sword-cursor.png), auto;
+}
+
+a{
+    cursor: url(https://cdn.custom-cursor.com/db/9743/32/minecraft-enchanted-book-and-netherite-sword-pointer.png), auto;
 }
 
 .img {  
@@ -22,6 +27,10 @@ body{
 
 .tm{
     padding-top: 6%;
+}
+
+.shadow{
+    box-shadow: violet;
 }
 
 .logo {
