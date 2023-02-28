@@ -20,8 +20,8 @@ body{
     border-style: initial;      /*Estilo de borde en la foto*/ 
 }
 
-.cuerpo{
-
+.tm{
+    padding-top: 6%;
 }
 
 .logo {
